@@ -1,0 +1,2 @@
+# afip-metadatos
+Paneles dinámicos
